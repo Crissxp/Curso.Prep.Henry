@@ -1,0 +1,22 @@
+h1{
+    color: teal;
+}
+img{
+    margin-top: 50px;
+    margin-right: 200px;
+    margin-left: -35px;
+    width: 400px;
+}
+#thirdDiv{
+    background: cornsilk;
+    border: 20px;
+    height: 600px;
+    width:  500px;;
+    border: blanchedalmond;
+    
+}
+#spanId{
+    font-size: 18px;
+    margin: px;
+    padding: 50px;
+}
